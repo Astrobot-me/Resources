@@ -20,3 +20,12 @@ Ready to run interactive physics simulations, from our IIT JEE curriculum based 
 
 
 #### More Resources will be added in Near Future 
+
+## Connect With Me : 
+##### [My Youtube Channel 📺 - @Micro Gravity Wrokshop](https://www.youtube.com/channel/UCXcgqPN7rEx6IeeJQcTcaaQ)
+
+##### [My Discord Server](https://discord.gg/b6h2GhCp)
+
+##### [Another Discord Server Based on Space Theme Filled With 100s of Space Enthusiasts **NEW SPACE INDIA**](https://discord.gg/FSTW4FahvT)
+
+##### [My Twitter- @Astrobot-me](https://twitter.com/Astrobot_me)
