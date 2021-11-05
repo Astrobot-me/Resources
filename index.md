@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Resources by Astrobot
 
-You can use the [editor on GitHub](https://github.com/Astrobot-me/Resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Some Useful Resources related to Daily Life , I found Randomly 🙂
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **STEM SIMULATIONS** 🚀
+Some Awesome Science,Maths and Chemistry Sub Related Interactive Animation based Simulations to Helps Student to Visualize things & help them to Develop Deeper Understandings in their respective subjects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ### _SIMPHY_
+Ready to run interactive physics simulations, from our IIT JEE curriculum based exhaustive library, for live teaching with SimPHY. Just plug and play.
+> [Link to Download/weblet](https://simphy.com/)
 
-```markdown
-Syntax highlighted code block
+- ### _pHet Online Simulations_
+-Founded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
+> [Link to Download/weblet](https://phet.colorado.edu/)
 
-# Header 1
-## Header 2
-### Header 3
+- ### _Olabs Edu (By Ministry Of Education)_
+ The OLabs is based on the idea that lab experiments can be taught using the Internet, more efficiently and less expensively. The labs can also be made available to students with no access to physical labs or where equipment is not available owing to being scarce or costly. This helps them compete with students in better equipped schools and bridges the digital divide and geographical distances. The experiments can be accessed anytime and anywhere, overcoming the constraints on time felt when having access to the physical lab for only a short period of time.
+> [Link to Download/weblet](http://www.olabs.edu.in/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Astrobot-me/Resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### More Resources will be added in Near Future 
